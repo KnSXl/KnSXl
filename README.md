@@ -7,3 +7,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@knszx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-nascimento-da-silva-1a43bb2a4/)
