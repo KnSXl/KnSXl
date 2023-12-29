@@ -1,3 +1,6 @@
+# 👤 About Me:
+Atualmente, estou imerso em um curso de Desenvolvimento Front-end, buscando aprimorar minhas habilidades e conhecimentos nesta área. Gosto de desenvolver interfaces envolventes e interativas, utilizando HTML, CSS, JavaScript e Bootstrap. Meu objetivo é progredir para ser um Full Stack, Aplicando minha habilidade no design com sólidos conhecimentos técnicos, estou ansioso para enfrentar novos desafios e contribuir para projetos inovadores.
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -10,4 +13,4 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@knszx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-nascimento-da-silva-1a43bb2a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-nascimento-da-silva)
