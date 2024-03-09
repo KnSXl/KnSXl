@@ -1,14 +1,40 @@
-# 👤 About Me:
-Atualmente, estou imerso em um curso de Desenvolvimento Front-end, buscando aprimorar minhas habilidades e conhecimentos nesta área. Gosto de desenvolver interfaces envolventes e interativas, utilizando HTML, CSS, JavaScript e Bootstrap. Meu objetivo é progredir para ser um Full Stack, Aplicando minha habilidade no design com sólidos conhecimentos técnicos, estou ansioso para enfrentar novos desafios e contribuir para projetos inovadores.
+# Bem-vindo ao meu GitHub! 👋
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. Sou entusiasta do desenvolvimento web Front-end, mergulhando nesse fascinante mundo da programação há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área empolgante.
 
-# 📊 GitHub Stats:
+## Sobre Mim
+
+- 💻 Atuando como desenvolvedor web Front-end
+- 🌐 Buscando me tornar um desenvolvedor full-stack
+- 🚀 Empenhado em dominar linguagens como HTML, CSS, JavaScript, React, Vue.js, Bootstrap e Node.js
+- 📚 Estudante constante, sempre buscando aprender e crescer
+
+## Meus Objetivos Futuros
+
+Meu plano é construir uma carreira sólida, participando de diversos projetos e eventualmente estabelecendo meu cantinho home office. Planejo também ingressar em faculdades de Análise e Desenvolvimento de Sistemas e Ciência da Computação, buscando a combinação perfeita entre teoria e prática.
+
+## Habilidades
+
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+Estou ciente de que estou nos estágios iniciais, mas estou sempre comprometido em expandir meu conhecimento para aprimorar minhas habilidades.
+
+## 👤 Portfólio
+
+https://portfolio-xi-nine-65.vercel.app/
+
+Aqui você encontrará meus projetos e avanços ao longo da minha jornada. Agradeço por dedicar um tempo para conhecer um pouco mais sobre mim. Vamos crescer juntos, comunidade de desenvolvedores! 🚀
+
+Obrigado pela atenção!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@knszx)
