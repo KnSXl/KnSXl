@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub! 👋
 
-Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. Sou encantado pelo desenvolvimento web Front-end, mergulhando nesse fascinante mundo da programação há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área empolgante.
+Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. Podemos dizer que eu me encantei nesse mundo da programação, e estou nesse rumo há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área incrível.
 
 ## Sobre Mim
 
