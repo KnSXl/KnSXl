@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub! 👋
 
-Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. Sou entusiasta do desenvolvimento web Front-end, mergulhando nesse fascinante mundo da programação há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área empolgante.
+Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. Sou encantado pelo desenvolvimento web Front-end, mergulhando nesse fascinante mundo da programação há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área empolgante.
 
 ## Sobre Mim
 
@@ -11,7 +11,7 @@ Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. Sou entusiast
 
 ## Meus Objetivos Futuros
 
-Meu plano é construir uma carreira sólida, participando de diversos projetos e eventualmente estabelecendo meu cantinho home office. Planejo também ingressar em faculdades de Análise e Desenvolvimento de Sistemas e Ciência da Computação, buscando a combinação perfeita entre teoria e prática.
+Meu plano é construir uma carreira sólida, fazendo diversos projetos e eventualmente estabelecendo meu cantinho home office completo. Planejo também ingressar em faculdades de Análise e Desenvolvimento de Sistemas e Ciência da Computação, buscando a combinação perfeita entre teoria e prática.
 
 ## Habilidades
 
@@ -26,13 +26,13 @@ Meu plano é construir uma carreira sólida, participando de diversos projetos e
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Estou ciente de que estou nos estágios iniciais, mas estou sempre comprometido em expandir meu conhecimento para aprimorar minhas habilidades.
+Estou ciente de que estou nos estágios iniciais, mas estou sempre comprometido em melhorar meu conhecimento para aprimorar minhas habilidades.
 
 ## 👤 Portfólio
 
 https://portfolio-xi-nine-65.vercel.app/
 
-Aqui você encontrará meus projetos e avanços ao longo da minha jornada. Agradeço por dedicar um tempo para conhecer um pouco mais sobre mim. Vamos crescer juntos, comunidade de desenvolvedores! 🚀
+Aqui você encontrará meus projetos e avanços ao longo da minha jornada. Agradeço por dedicar um tempo para conhecer um pouco mais sobre mim. 🚀
 
 Obrigado pela atenção!
 
