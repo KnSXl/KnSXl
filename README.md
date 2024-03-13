@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub! 👋
 
-Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. Podemos dizer que eu me encantei nesse mundo da programação, e estou nesse rumo há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área incrível.
+Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. E podemos dizer que eu me encantei nesse mundo da programação, e estou nesse rumo há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área incrível.
 
 ## Sobre Mim
 
