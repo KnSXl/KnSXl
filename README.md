@@ -1,12 +1,12 @@
 # Bem-vindo ao meu GitHub! 👋
 
-Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. E podemos dizer que eu me encantei nesse mundo da programação, e estou nesse rumo há menos de um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área incrível.
+Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. E podemos dizer que eu me encantei nesse mundo da programação, e estou nesse rumo há um ano. Atualmente, estou focado em aprimorar minhas habilidades nessa área incrível.
 
 ## Sobre Mim
 
 - 💻 Atuando como desenvolvedor web Front-end
 - 🌐 Buscando me tornar um desenvolvedor full-stack
-- 🚀 Empenhado em dominar HTML, CSS, JavaScript, React, Vue.js, Bootstrap e Node.js
+- 🚀 Empenhado em dominar HTML, CSS, JavaScript, Vue.js, Bootstrap, TailwindCSS e Node.js
 - 📚 Estudante constante, sempre buscando aprender e crescer
 
 ## Meus Objetivos Futuros
