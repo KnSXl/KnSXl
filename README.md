@@ -27,7 +27,7 @@ Meu plano é construir uma carreira sólida, fazendo diversos projetos e eventua
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=knsxl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Estou ciente de que estou nos estágios iniciais, mas estou sempre comprometido em melhorar meu conhecimento para aprimorar minhas habilidades.
 
