@@ -4,7 +4,7 @@ Olá, eu sou Kauã Nascimento da Silva, mas pode me chamar de KNS. E podemos diz
 
 ## Sobre Mim
 
-- 💻 Atuando como desenvolvedor web Front-end
+- 💻 Atuando como desenvolvedor web front-end
 - 🌐 Buscando me tornar um desenvolvedor full-stack
 - 🚀 Empenhado em dominar HTML, CSS, JavaScript, Vue.js, Bootstrap, TailwindCSS e Node.js
 - 📚 Estudante constante, sempre buscando aprender e crescer
