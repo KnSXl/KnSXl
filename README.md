@@ -26,6 +26,7 @@ Meu plano é construir uma carreira sólida, fazendo diversos projetos e eventua
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=knsxl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
