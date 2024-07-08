@@ -34,7 +34,7 @@ Estou ciente de que estou nos estágios iniciais, mas estou sempre comprometido 
 
 ## 👤 Portfólio
 
-https://meu-portfolio-kns.vercel.app/
+https://portfolio-kaua-nascimento-da-silva.vercel.app/
 
 Aqui você encontrará meus projetos e avanços ao longo da minha jornada. Agradeço por dedicar um tempo para conhecer um pouco mais sobre mim. 🚀
 
