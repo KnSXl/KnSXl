@@ -30,6 +30,7 @@ Meu plano é construir uma carreira sólida, fazendo diversos projetos e eventua
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) - Iniciante
 - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) - Iniciante
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) - Iniciante
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - Iniciante
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=knsxl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
