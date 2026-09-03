@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Kauã Nascimento da Silva e bem-vindo ao meu GitHub!
+# Olá, eu sou o Kauã Nascimento da Silva e bem-vindo ao meu GitHub! 👋
 
 ### 💻 Desenvolvedor Front-end • 🚀 Futuro DevOps
 
@@ -19,25 +19,30 @@ const kaua = {
     idade: 20,
     apelido: "KNS",
     cargo: "Desenvolvedor Front-end",
+
     objetivos_futuros: [
         "DevOps",
         "Engenharia de Software"
     ],
+
     cursos: [
         "SENAC-RS: Desenvolvimento Web",
         "IENH: Técnico em Informática"
     ],
+
     descricao:
-        `Atualmente atuo como desenvolvedor Front-end, 
-        com foco na criação de aplicações web. 
-        Meu objetivo é me especializar em DevOps e, 
-        posteriormente, cursar Engenharia de Software.`
+        `Olá, meu nome é Kauã Nascimento da Silva, tenho 20 anos e atuo como
+        desenvolvedor front-end, com foco no desenvolvimento de aplicações web.
+
+        Meu objetivo é me especializar em DevOps e cursar Engenharia de Software,
+        ampliando meus conhecimentos e minha experiência na área de tecnologia.
+
+        A longo prazo, pretendo conquistar independência profissional, organizar
+        meu próprio escritório e atuar de forma autônoma.`
 };
 ```
 
 ## 🛠️ Habilidades & Tecnologias
-
-<div align="center">
 
 ### 🎨 Front-end
 
@@ -94,13 +99,11 @@ const kaua = {
 ![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado_Contínuo-8E24AA?style=for-the-badge)
 ![Desenvolvimento Humano](https://img.shields.io/badge/Desenvolvimento_Humano-00897B?style=for-the-badge)
 
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 </div>
 
