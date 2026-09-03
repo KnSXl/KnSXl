@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:kauasilva2861@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?logo=vercel\&logoColor=white)](https://portfolio-kaua-nascimento-da-silva.vercel.app)
 
-<div>
+</div>
 
 ## 👨‍💻 Sobre Mim
 
@@ -36,6 +36,8 @@ const kaua = {
 ```
 
 ## 🛠️ Habilidades & Tecnologias
+
+<div align="center">
 
 ### 🎨 Front-end
 
@@ -92,13 +94,13 @@ const kaua = {
 ![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado_Contínuo-8E24AA?style=for-the-badge)
 ![Desenvolvimento Humano](https://img.shields.io/badge/Desenvolvimento_Humano-00897B?style=for-the-badge)
 
----
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KnSXl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 </div>
 
