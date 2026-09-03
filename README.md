@@ -19,6 +19,7 @@ const kaua = {
     idade: 20,
     apelido: "KNS",
     cargo: "Desenvolvedor Front-end",
+    localidade: "NH / RS",
 
     objetivos_futuros: [
         "DevOps",
