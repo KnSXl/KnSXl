@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # 👋 Olá, eu sou o Kauã Nascimento da Silva e bem-vindo ao meu GitHub!
 
@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:kauasilva2861@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?logo=vercel\&logoColor=white)](https://portfolio-kaua-nascimento-da-silva.vercel.app)
 
-</center>
+<div>
 
 ## 👨‍💻 Sobre Mim
 
