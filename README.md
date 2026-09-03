@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Kauã Nascimento da Silva e bem-vindo ao meu GitHub! 👋
 
-### 💻 Desenvolvedor Front-end • 🚀 Futuro DevOps
+### 💻 Desenvolvedor Front-end
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/kns.zx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/kaua-nascimento-da-silva)
