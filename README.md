@@ -64,7 +64,7 @@ const kaua = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 🚀 DevOps & Infraestrutura
+### 🚀 DevOps & Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
@@ -78,18 +78,17 @@ const kaua = {
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 
-### 🖥️ Infraestrutura & Sistemas
+### 🖥️ Sistemas & Redes
 
-![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge)
-![Sistemas Operacionais](https://img.shields.io/badge/Sistemas_Operacionais-555555?style=for-the-badge)
-![Infraestrutura](https://img.shields.io/badge/Infraestrutura-555555?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/Hardware-607D8B?style=for-the-badge)
+![Sistemas Operacionais](https://img.shields.io/badge/Sistemas_Operacionais-1565C0?style=for-the-badge)
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura-2E7D32?style=for-the-badge)
 ![Redes](https://img.shields.io/badge/Redes-0A66C2?style=for-the-badge)
 
 ### 🧠 Conhecimentos
 
 ![Análise e Projeto de Sistemas](https://img.shields.io/badge/Análise_e_Projeto_de_Sistemas-6A5ACD?style=for-the-badge)
 ![Gestão de Redes](https://img.shields.io/badge/Gestão_de_Redes-00897B?style=for-the-badge)
-![Infraestrutura](https://img.shields.io/badge/Infraestrutura-555555?style=for-the-badge)
 ![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-7B1FA2?style=for-the-badge)
 
 ### 🤝 Soft Skills
