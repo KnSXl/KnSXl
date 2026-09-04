@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre Mim
 
 ```js
-const kaua = {
+let kaua = {
     nome: "Kauã Nascimento da Silva",
     idade: 20,
     apelido: "KNS",
